@@ -13,8 +13,8 @@
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-html-css-btXJyoHRJS)
+- Live Site URL: [live site URL](https://meraj-sharif-khan.github.io/stats-card/)
 
 ### Built with
 
